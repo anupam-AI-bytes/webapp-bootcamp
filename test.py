@@ -12,3 +12,9 @@ if name:
 if st.button("Click Me"):
     st.balloons()
     st.success("You make my life better every day ❤️")
+
+if st.button("Special Surprise"):
+    st.balloons()
+    st.snow()
+    st.success("❤️ You're the best thing that ever happened to me ❤️")
+    st.write("✨ Thank you for making every day brighter ✨")
