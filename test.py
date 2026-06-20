@@ -19,3 +19,10 @@ st.write("Python + Streamlit + GitHub are connected successfully!")
 
 if st.button("Click Me"):
     st.success("Everything is working perfectly!")
+    import streamlit as st
+
+st.title("❤️ For Someone Special")
+
+if st.button("Click Me"):
+    st.balloons()
+    st.success("You make my life better every day ❤️")
